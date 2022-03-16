@@ -1,14 +1,5 @@
 #include <ESP8266WiFi.h>
 
-const int trigPin = 12;
-const int echoPin = 14;
-
-//define sound velocity in cm/uS
-#define SOUND_VELOCITY 0.034
-
-long duration;
-float distanceCm;
-//float distanceInch; 
 
 const char* ssid = "NODEMCU";    //  Your Wi-Fi Name
 
