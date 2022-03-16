@@ -11,10 +11,10 @@ A NodeMCU Based Car where the Computer Vision technique is used for controlling
 2) PYTHON IDE (I'll prefer to use jupyter notebook for the purpose  of ease) <br>
 
 <h1>DEPENDENCIES:</h1>
-<h2>FOR  PYTHON</h2>
+<h3>FOR  PYTHON</h3>
 1) OpenCV <br>
 2) Mediapipe <br>
 3) httplib2 <br>
-<h2>FoR C++ (ARDUINO IDE)</h2>
+<h3>FoR C++ (ARDUINO IDE)</h3>
   ESP8266WiFi.h
 
