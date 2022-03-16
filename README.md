@@ -24,6 +24,13 @@ A NodeMCU Based Car where the Computer Vision technique is used for controlling
 3) BO MOTOR with wheels x 2 <br>
 4) Jumper wires <br>
 5) Battery
+6) LM7805
+
+<H1>HOW TO IMPLEMENT? <H1>
+The main idea to implement a nodeMCU based hand gesture controlled car is that, the nodeMCU in the car is programmed to act as server, which will control the motion of the car on the basis of the command or request it will recieves. Here the nodeMCU will be used as an access point. After that I will need to create a python program which will perform the following important task, <br>
+1) To detect the Hand and then identify its gesture using computer vision techniques. <br>
+2) To act as client and on the basis of hand gesture it will send a request to server i.e nodeMCU using 'GET' method.  
+  
 <h1>CONNECTION DIAGRAM:</h1>
 
 
