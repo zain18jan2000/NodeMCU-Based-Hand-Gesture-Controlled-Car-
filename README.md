@@ -25,7 +25,10 @@ A NodeMCU Based Car where the Computer Vision technique is used for controlling
 4) Jumper wires <br>
 5) Battery
 <h1>CONNECTION DIAGRAM:</h1>
+
+
 ![nodeMcu](https://user-images.githubusercontent.com/82854685/158703275-89538302-555b-4111-91e2-dd6359183aeb.JPG)
+
 
 
 <h1>VIDEO DEMO: </h1>
