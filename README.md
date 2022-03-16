@@ -24,6 +24,9 @@ A NodeMCU Based Car where the Computer Vision technique is used for controlling
 3) BO MOTOR with wheels x 2 <br>
 4) Jumper wires <br>
 5) Battery
+<h1>CONNECTION DIAGRAM:</h1>
+![nodeMcu](https://user-images.githubusercontent.com/82854685/158703275-89538302-555b-4111-91e2-dd6359183aeb.JPG)
+
 
 <h1>VIDEO DEMO: </h1>
 https://drive.google.com/file/d/192WbUxf8NpuVT6cIU62cTkyCM23feeq9/view?usp=sharing
