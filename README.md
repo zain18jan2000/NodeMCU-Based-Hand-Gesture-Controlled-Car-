@@ -18,5 +18,12 @@ A NodeMCU Based Car where the Computer Vision technique is used for controlling
 <h3>FoR C++ (ARDUINO IDE)</h3>
   ESP8266WiFi.h
 
+<h1>REQUIRED COMPONENTS</h1>
+1) NodeMCU <br>
+2) Motor driver L298N <br>
+3) BO MOTOR with wheels x 2 <br>
+4) Jumper wires <br>
+5) Battery
+
 <h1>VIDEO DEMO: </h1>
 https://drive.google.com/file/d/192WbUxf8NpuVT6cIU62cTkyCM23feeq9/view?usp=sharing
