@@ -23,7 +23,7 @@ A NodeMCU Based Car where the Computer Vision technique is used for controlling
 2) Motor driver L298N <br>
 3) BO MOTOR with wheels x 2 <br>
 4) Jumper wires <br>
-5) Battery
+5) Battery <br>
 6) LM7805
 
 <H1>HOW TO IMPLEMENT? </H1>
